@@ -1,0 +1,5 @@
+{
+  "name": "EV Twin-Track: Scooter Comparison Tool",
+  "description": "A professional-grade EV 2-wheeler comparison platform that uses Gemini 3 Pro with Google Search grounding to analyze technical specs and qualitative factors of any two electric scooters.",
+  "requestFramePermissions": []
+}
